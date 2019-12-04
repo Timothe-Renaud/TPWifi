@@ -1,0 +1,13 @@
+{
+    "name": "vendor/gitlabprojetwifi",
+    "description": "Description of project gitlabprojetwifi.",
+    "authors": [
+        {
+            "name": "Rayan.BOUGOUFA",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "ifsnop/mysqldump-php": "* dev-master"
+    }
+}
